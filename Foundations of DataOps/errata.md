@@ -4,6 +4,8 @@ Chapter 1 :
  synthetic data added to the provided code 
 
  #### CI/CD pipeline with Git and DVC
+ ##### Install necessary packages
+!pip install gitpython dvc
 
  Please do not change the code provided. It already includes all necessary steps for initializing the repository, tracking dataset and model changes with DVC, running tests, and deploying the model.
 
