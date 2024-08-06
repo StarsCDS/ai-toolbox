@@ -3,20 +3,14 @@
 # Foundation of DataOps
 
 
-
-# Foundation of DataOps
-
-
-# 1.1 Introduction to Dataops
-## The DataOps Lifecycle
 # 1.1 Introduction to Dataops
 ## The DataOps Lifecycle
 
 ####  DataOps pipeline for ML model training
-####  DataOps pipeline for ML model training
+
 
 - Synthetic data has been added to the provided code in the textbook . This generates synthetic customer data for a churn prediction scenario. It creates a dataset with 1000 samples, including customer tenure, two random features, and a binary churn indicator.
-- Synthetic data has been added to the provided code in the textbook . This generates synthetic customer data for a churn prediction scenario. It creates a dataset with 1000 samples, including customer tenure, two random features, and a binary churn indicator.
+
 
 #### CI/CD pipeline with Git and DVC
 
@@ -100,5 +94,5 @@ Put np.round for consistency accross the whole data np.round rounds off to the d
 
 - Passing as a column of the pandas dataframe results in keyerror. Instead pass it as Pandas Series
 
-Passing as a column of the pandas dataframe results in keyerror. Instead pass it as Pandas Series
+- Passing as a column of the pandas dataframe results in keyerror. Instead pass it as Pandas Series
 
