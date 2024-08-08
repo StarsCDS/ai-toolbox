@@ -69,7 +69,7 @@
 
 #### Building custom ETL pipelines:
 - CSV file for execution, and if no file was uploaded, it resulted in an error when attempting to load data
--  A sample CSV file is created programmatically if no file is uploaded, ensuring that the ETL pipeline has data to work with.
+-  A sample CSV file is created programmatically if no file is uploaded, ensuring that the ETL pipeline has data to work
 
 
 
