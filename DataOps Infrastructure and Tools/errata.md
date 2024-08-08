@@ -1,6 +1,7 @@
 # 3.DataOps Infrastructure and Tools
 
 ## 3.1 Data storage and housing
+## Data Lake vs Data warehousing
 
 
 #### Data Lake
@@ -32,6 +33,8 @@
 
 
 ## 3.2 Data Integration and ETL 
+
+## Data Integration Patterns and Best Practices
 
 #### Data synchronization methods
 
